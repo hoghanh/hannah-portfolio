@@ -310,7 +310,7 @@ header .intro-text {
 /* Work Section */
 #work {
   padding: 100px 0;
-  background: linear-gradient(to right, #ffaabb 0%, #ffdcdc 100%);
+  background: linear-gradient(to right, #ff99aa 0%, #ffbbcc 100%);
   color: #fff;
 }
 #work .service-desc {
@@ -405,7 +405,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #ffaabb 0%, #ffdcdc 100%);
+  background: linear-gradient(to right, #ff99aa 0%, #ffbbcc 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
@@ -527,21 +527,6 @@ label {
 #contact .social i.fa:hover {
   color: #ff99aa;
   background: #fff;
-}
-/* Footer Section*/
-#footer {
-  background: #f6f6f6;
-  padding: 30px 0;
-}
-#footer p {
-  color: #888;
-  font-size: 14px;
-}
-#footer a {
-  color: #ff99aa;
-}
-#footer a:hover {
-  border-bottom: 2px solid #ff99aa;
 }
 
 @media (max-width: 768px) {
